@@ -71,13 +71,16 @@ In the compressor, check the schematic still matches its netlist after any edit:
 python3 tools/verify_netlist.py
 ```
 
-<!--
 ## 👥 Team
 
 | Name | Focus | GitHub |
 | :--- | :--- | :--- |
-| | | |
--->
+| Jaylen | Compressor | jaylenjinx |
+| Sophie | Compressor | soapywater01 |
+| Elina | Pre-Amp | ekim17 |
+| Matthew | Pre-Amp | n/a |
+| Brandon | Equaliser | Maestro15251 |
+| Luke | Equaliser | YummyDog |
 
 ## 📜 Academic integrity & licensing
 
