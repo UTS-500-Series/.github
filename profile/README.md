@@ -87,10 +87,15 @@ python3 tools/verify_netlist.py
 This project is coursework at the **University of Technology Sydney**. UTS academic integrity
 policies apply to all enrolled students working with this material.
 
-No licence has been chosen for these repositories yet, so all rights are reserved by default.
+Every repository is open hardware under the
+[CERN Open Hardware Licence v2, Strongly Reciprocal](https://ohwr.org/cern_ohl_s_v2.txt)
+(CERN-OHL-S v2). You may use, study, modify and build the designs, and make products from
+them, provided you share your modified sources under the same licence. Each repository's
+`LICENSE` file has the full text and its `README.md` the copyright notice.
 
 The preamp circuit is **not our design**: it is ESP Project 66 by Rod Elliott, whose terms
-permit construction for personal use but not commercial manufacture.
+permit construction for personal use but not commercial manufacture. The licence covers
+only the team's own work, so it grants no rights in that circuit.
 
 ---
 *Developed with 🎧 in Sydney, Australia.*
